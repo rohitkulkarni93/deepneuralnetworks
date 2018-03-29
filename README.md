@@ -1,4 +1,4 @@
-# deepneuralnetworks
+# Deep Neural Networks
 Convolutional Neural Networks based on depp learning.
 
 Dataset: cifar10
